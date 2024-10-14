@@ -4,5 +4,6 @@
 ## Current Stage
 ![](assets/FOTA-AWS.current.png)
 
-## final product
+## Final product
+![](assets/FOTA-AWS.final.png)
 ![](assets/FOTA-AWS.final.png)
